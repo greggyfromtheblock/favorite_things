@@ -3,5 +3,6 @@ animals = [
     'kittens',
     'frogs',
     'penguins',
-    'hippos'
+    'hippos',
+    'girrafes'
 ]
