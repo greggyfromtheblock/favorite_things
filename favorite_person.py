@@ -1,0 +1,5 @@
+persons = [
+    'Mom',
+    'Dad',
+    'Kylie'
+]
