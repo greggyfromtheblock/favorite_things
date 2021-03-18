@@ -2,19 +2,19 @@ from favorite_animals import animals
 from favorite_colors import colors
 from favorite_persons import persons
 
-print('My favorite animals are:')
+print('My favourite animals are:')
 
 for i in range(len(animals)):
     print(animals[i])
 
 
-print('My favorite colors are:')
+print('My favourite colors are:')
 
 for i in range(len(colors)):
     print(colors[i])
 
 
-print('My favorite persons are:')
+print('My favourite persons are:')
 
 for i in range(len(persons)):
     print(persons[i])
