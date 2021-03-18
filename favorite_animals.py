@@ -4,5 +4,7 @@ animals = [
     'frogs',
     'penguins',
     'hippos',
-    'girrafes'
+    'girrafes',
+    'dragons',
+    'unicorns'
 ]
