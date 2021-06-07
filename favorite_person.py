@@ -1,5 +1,6 @@
 persons = [
     'Mom',
-    'Jennifer Lopez',
-    'Kylie'
+    'Britney Spears',
+    'Kylie',
+    'Jennifer'
 ]
